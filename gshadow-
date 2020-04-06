@@ -53,5 +53,10 @@ admin:!::
 netdev:!::ubuntu,j_sytdikova
 _chrony:!::
 ubuntu:!::j_sytdikova
-google-sudoers:!::j_sytdikova
+google-sudoers:!::
 j_sytdikova:!::
+docker:!::
+mysql:!::
+tomcat8:!::
+ssl-cert:!::
+postgres:!::

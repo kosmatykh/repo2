@@ -29,3 +29,7 @@ sshd:x:109:65534::/run/sshd:/usr/sbin/nologin
 pollinate:x:110:1::/var/cache/pollinate:/bin/false
 _chrony:x:111:115:Chrony daemon,,,:/var/lib/chrony:/usr/sbin/nologin
 ubuntu:x:1000:1000:Ubuntu:/home/ubuntu:/bin/bash
+j_sytdikova:x:1001:1002::/home/j_sytdikova:/bin/bash
+mysql:x:112:117:MySQL Server,,,:/nonexistent:/bin/false
+tomcat8:x:113:118:Apache Tomcat,,,:/var/lib/tomcat8:/bin/false
+postgres:x:114:120::/var/lib/postgresql:/bin/bash
